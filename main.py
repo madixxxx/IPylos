@@ -18,7 +18,7 @@ current_player = 0
 players = [player1, player2]
 
 print(board)
-print()
+print() 
 
 while not board.isTerminal():
     print("current player: %s"%(players[current_player].name))
