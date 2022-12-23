@@ -1,1 +1,0 @@
-L'heuristique implémentée est très basique.
